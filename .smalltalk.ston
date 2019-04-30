@@ -2,7 +2,7 @@ SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #baseline : 'MonticelloImporter',
-      #directory : 'src',
+      #directory : 'src'
     }
   ]
 }
